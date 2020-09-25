@@ -1,5 +1,5 @@
 # Furniture App
-# Lab 01
+## Lab 01
 <table border="0">
 <tr>
 <td>
@@ -16,7 +16,8 @@
 </td>
 </tr>
 </table>
-# Lab 02,03
+
+## Lab 02,03
 <table border="0">
 <tr>
 <td>
