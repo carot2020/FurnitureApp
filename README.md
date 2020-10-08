@@ -35,20 +35,19 @@
 <table border="0">
 <tr>
 <td>
-<img alt="Image8" src="https://user-images.githubusercontent.com/61627936/94231082-7f258d00-ff2d-11ea-9b73-217d7c03164f.png">
+<img alt="Image8" src="screeshoots/Picture8.png">
 </td>
 <td>
-<img alt="Image9" src="https://user-images.githubusercontent.com/61627936/94231088-82b91400-ff2d-11ea-823c-1a198c0d96a1.png">
+<img alt="Image9" src="screeshoots/Picture9.png">
 </td>
 <td>
-<img alt="Image10" src="https://user-images.githubusercontent.com/61627936/94231089-83ea4100-ff2d-11ea-88b3-5e7d64179807.png">
-</td>
-
-<td>
-<img alt="Image11" src="https://user-images.githubusercontent.com/61627936/94231082-7f258d00-ff2d-11ea-9b73-217d7c03164f.png">
+<img alt="Image10" src="screeshoots/Picture10.png">
 </td>
 <td>
-<img alt="Image12" src="https://user-images.githubusercontent.com/61627936/94231088-82b91400-ff2d-11ea-823c-1a198c0d96a1.png">
+<img alt="Image11" src="screeshoots/Picture11.png">
+</td>
+<td>
+<img alt="Image12" src="screeshoots/Picture12.png">
 </td>
 </tr>
 </table>  
