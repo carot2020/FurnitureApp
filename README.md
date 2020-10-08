@@ -31,5 +31,25 @@
 </td>
 </tr>
 </table>
-# Lab 04,05
+## Lab 04,05
+<table border="0">
+<tr>
+<td>
+<img alt="Image8" src="https://user-images.githubusercontent.com/61627936/94231082-7f258d00-ff2d-11ea-9b73-217d7c03164f.png">
+</td>
+<td>
+<img alt="Image9" src="https://user-images.githubusercontent.com/61627936/94231088-82b91400-ff2d-11ea-823c-1a198c0d96a1.png">
+</td>
+<td>
+<img alt="Image10" src="https://user-images.githubusercontent.com/61627936/94231089-83ea4100-ff2d-11ea-88b3-5e7d64179807.png">
+</td>
+
+<td>
+<img alt="Image11" src="https://user-images.githubusercontent.com/61627936/94231082-7f258d00-ff2d-11ea-9b73-217d7c03164f.png">
+</td>
+<td>
+<img alt="Image12" src="https://user-images.githubusercontent.com/61627936/94231088-82b91400-ff2d-11ea-823c-1a198c0d96a1.png">
+</td>
+</tr>
+</table>  
 # Lab 06
